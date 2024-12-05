@@ -1,0 +1,12 @@
+{
+"compilerOptions": {
+    "module": "ESNext",         // Use ES module syntax
+    "moduleResolution": "node", // Allows Node.js-style module resolution
+    "esModuleInterop": true,    // Allows interoperability with CommonJS modules
+    "target": "ESNext",         // Use the latest JavaScript features
+    "outDir": "./dist",         // Output directory for compiled files
+    "strict": true              // Enable strict type-checking
+  },
+  "include": ["src/**/*.ts"] 
+
+}

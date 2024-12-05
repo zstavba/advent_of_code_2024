@@ -1,0 +1,12 @@
+{
+    "type": "module",
+    "dependencies": {
+        "csv-parse": "^5.6.0",
+        "fs": "^0.0.1-security",
+        "path": "^0.12.7",
+        "util": "^0.12.5"
+    },
+    "devDependencies": {
+        "@types/node": "^22.10.1"
+    }
+}
